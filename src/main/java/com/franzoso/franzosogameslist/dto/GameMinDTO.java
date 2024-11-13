@@ -3,6 +3,7 @@ package com.franzoso.franzosogameslist.dto;
 import com.franzoso.franzosogameslist.entities.Game;
 
 public class GameMinDTO {
+
     private Long id;
     private String title;
     private Integer year;
