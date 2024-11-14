@@ -10,6 +10,7 @@ public class GameMinDTO {
     private Integer year;
     private String imgUrl;
     private String shortDescription;
+    private Integer position;
 
     public GameMinDTO() {
     }
@@ -28,6 +29,7 @@ public class GameMinDTO {
         year = projection.getYear();
         imgUrl = projection.getImgUrl();
         shortDescription = projection.getShortDescription();
+        position = projection.getPosition();
     }
 
     public Long getId() {
@@ -48,5 +50,9 @@ public class GameMinDTO {
 
     public String getShortDescription() {
         return shortDescription;
+    }
+
+    public Integer getPosition() {
+        return position;
     }
 }
