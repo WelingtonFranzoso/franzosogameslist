@@ -3,11 +3,7 @@
 
 # Sobre o projeto
 
-Franzoso Games List é uma aplicação back-end, sendo uma API Rest feita em padrão camadas  construída durante Intensivão Java Spring, evento organizado pela DevSuperior.
-Aplicação consiste em bucar uma listagem de jogos por algum parametro e fazer a alteração das posições de cada jogo nessa lista, todos os dados foram semeados diretamente para o banco de dados feito por um import.sql.
-
-
-
+Franzoso Games List é uma aplicação back-end, sendo uma API Rest feita em padrão camadas construída durante Intensivão Java Spring, evento organizado pela DevSuperior. Aplicação consiste em buscar uma listagem de jogos por algum parâmetro e fazer a alteração das posições de cada jogo nessa lista, todos os dados foram semeados diretamente para o banco de dados feito por um import.sql.
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/WelingtonFranzoso/franzosogameslist/blob/main/assets/franzosogameslist.png?raw=true)
